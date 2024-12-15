@@ -1,0 +1,3942 @@
+[
+    {
+        "date": "2024-12-02",
+        "cars": [
+            {
+                "name": "Porsche Cayenne E-Hybrid Tiptronic S Platinum Edition",
+                "price": "77 338",
+                "mileage": "88 208 km",
+                "year": "2019"
+            },
+            {
+                "name": "Mercedes-Benz GLE Coupe 350 de 4Matic 9G-TRONIC AMG Line Advanced Plus",
+                "price": "92 808",
+                "mileage": "5 010 km",
+                "year": "2024"
+            },
+            {
+                "name": "Mercedes-Benz EQB 300 4Matic Electric Art",
+                "price": "41 638",
+                "mileage": "6 000 km",
+                "year": "2023"
+            },
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "27 358",
+                "mileage": "59 064 km",
+                "year": "2021"
+            },
+            {
+                "name": "Skoda Superb 1.5 TSI ACT DSG Ambition",
+                "price": "16 499",
+                "mileage": "199 999 km",
+                "year": "2019"
+            },
+            {
+                "name": "Peugeot 3008 Plug-In Hybrid4 300 e-EAT8 Allure Pack",
+                "price": "22 598",
+                "mileage": "126 190 km",
+                "year": "2021"
+            },
+            {
+                "name": "BMW i7 M70 xDrive",
+                "price": "190 475",
+                "mileage": "Electric",
+                "year": "2023"
+            },
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "26 763",
+                "mileage": "70 893 km",
+                "year": "2021"
+            },
+            {
+                "name": "Mercedes-Benz CLS 350 CDI BlueTEC 4MATIC Aut",
+                "price": "23 900",
+                "mileage": "123 304 km",
+                "year": "2015"
+            },
+            {
+                "name": "Skoda Octavia Combi 2.0 TDI DSG Style",
+                "price": "20 900",
+                "mileage": "138 866 km",
+                "year": "2020"
+            },
+            {
+                "name": "Mercedes-Benz CLA 180 d 7G-DCT AMG Line",
+                "price": "25 699",
+                "mileage": "156 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Honda CR-V 2.0 e:HEV 4x4 E-CVT Executive",
+                "price": "32 713",
+                "mileage": "105 499 km",
+                "year": "2020"
+            },
+            {
+                "name": "Opel Astra 1.6 CDTI DPF ecoFLEX Sports TourerStart/Stop Exklusiv",
+                "price": "8 499",
+                "mileage": "189 000 km",
+                "year": "2017"
+            },
+            {
+                "name": "Ford Focus 1.5 EcoBlue Trend Edition",
+                "price": "13 949",
+                "mileage": "144 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "Mercedes-Benz C 200 4Matic 9G-TRONIC AMG Line Advanced",
+                "price": "58 905",
+                "mileage": "4 000 km",
+                "year": "2023"
+            },
+            {
+                "name": "Mercedes-Benz GLE 400 d 4MATIC",
+                "price": "67 818",
+                "mileage": "62 000 km",
+                "year": "2021"
+            },
+            {
+                "name": "Dacia Sandero",
+                "price": "5 999",
+                "mileage": "169 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Mercedes-Benz G AMG 63 SW Long Aut.",
+                "price": "149 990",
+                "mileage": "98 254 km",
+                "year": "2020"
+            },
+            {
+                "name": "Skoda Fabia",
+                "price": "3 499",
+                "mileage": "205 000 km",
+                "year": "2009"
+            },
+            {
+                "name": "Skoda Fabia 1.0 TSI Ambition",
+                "price": "7 950",
+                "mileage": "257 121 km",
+                "year": "2019"
+            },
+            {
+                "name": "BMW Seria 4 430i xDrive AT M Sport",
+                "price": "31 399",
+                "mileage": "51 530 km",
+                "year": "2017"
+            },
+            {
+                "name": "Skoda Octavia Combi 2.0 TDI DSG Style",
+                "price": "9 990",
+                "mileage": "249 909 km",
+                "year": "2014"
+            },
+            {
+                "name": "BMW X1 sDrive18d Advantage",
+                "price": "11 990",
+                "mileage": "314 000 km",
+                "year": "2015"
+            },
+            {
+                "name": "Mercedes-Benz Vito Tourer Extra-Lung 114 CDI 136CP RWD 9AT PRO",
+                "price": "37 999",
+                "mileage": "147 000 km",
+                "year": "2021"
+            },
+            {
+                "name": "Mercedes-Benz GLC Coupe 300 e 4MATIC",
+                "price": "84 966",
+                "mileage": "6 376 km",
+                "year": "2024"
+            },
+            {
+                "name": "Mercedes-Benz GLC Coupe 220 d 4MATIC MHEV",
+                "price": "69 600",
+                "mileage": "3 950 km",
+                "year": "2023"
+            },
+            {
+                "name": "Nissan Qashqai 1.3 DIG-T MHEV Xtronic N-Connecta",
+                "price": "16 890",
+                "mileage": "130 321 km",
+                "year": "2020"
+            },
+            {
+                "name": "Mercedes-Benz CLA 200 d Coupe Aut.",
+                "price": "37 606",
+                "mileage": "30 883 km",
+                "year": "2022"
+            },
+            {
+                "name": "Mercedes-Benz GLB 200 d 4MATIC Aut.",
+                "price": "53 054",
+                "mileage": "7 596 km",
+                "year": "2024"
+            },
+            {
+                "name": "Mercedes-Benz GLC Coupe 220 d 4MATIC MHEV",
+                "price": "71 139",
+                "mileage": "5 311 km",
+                "year": "2023"
+            },
+            {
+                "name": "Mercedes-Benz GLA 250 e",
+                "price": "46 917",
+                "mileage": "14 978 km",
+                "year": "2023"
+            },
+            {
+                "name": "Mitsubishi ASX 1.8 DI-D 4WD Comfort Edition",
+                "price": "7 500",
+                "mileage": "234 500 km",
+                "year": "2011"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-02",
+        "cars": [
+            {
+                "name": "Mercedes-Benz GLE AMG 43 4Matic 9G-TRONIC AMG Line",
+                "price": "35 900",
+                "mileage": "186 000 km",
+                "year": "2018"
+            },
+            {
+                "name": "Audi Q7 3.0 ultra TDI Quattro Tiptronic",
+                "price": "34 498",
+                "mileage": "68 500 km",
+                "year": "2017"
+            },
+            {
+                "name": "Renault Talisman ENERGY dCi 130 EDC LIMITED",
+                "price": "12 989",
+                "mileage": "214 000 km",
+                "year": "2017"
+            },
+            {
+                "name": "BMW M4 M440i Gran Coupe",
+                "price": "61 999",
+                "mileage": "12 602 km",
+                "year": "2024"
+            },
+            {
+                "name": "Mitsubishi Eclipse-Cross Plug-In Hybrid 4WD Select",
+                "price": "27 953",
+                "mileage": "19 359 km",
+                "year": "2022"
+            },
+            {
+                "name": "BMW Seria 5 530d xDrive AT",
+                "price": "35 687",
+                "mileage": "82 000 km",
+                "year": "2017"
+            },
+            {
+                "name": "Audi A7 40 TDI S tronic",
+                "price": "31 535",
+                "mileage": "175 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Renault Arkana E-TECH Hybrid RS Line",
+                "price": "21 990",
+                "mileage": "101 000 km",
+                "year": "2022"
+            },
+            {
+                "name": "Toyota Yaris Hybrid 1.5 VVT-i Elegant",
+                "price": "14 900",
+                "mileage": "101 000 km",
+                "year": "2021"
+            },
+            {
+                "name": "Porsche Cayenne E-Hybrid Tiptronic S Platinum Edition",
+                "price": "77 338",
+                "mileage": "88 208 km",
+                "year": "2019"
+            },
+            {
+                "name": "Mercedes-Benz GLE Coupe 350 de 4Matic 9G-TRONIC AMG Line Advanced Plus",
+                "price": "92 808",
+                "mileage": "5 010 km",
+                "year": "2024"
+            },
+            {
+                "name": "Mercedes-Benz EQB 300 4Matic Electric Art",
+                "price": "41 638",
+                "mileage": "6 000 km",
+                "year": "2023"
+            },
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "27 358",
+                "mileage": "59 064 km",
+                "year": "2021"
+            },
+            {
+                "name": "Skoda Superb 1.5 TSI ACT DSG Ambition",
+                "price": "16 499",
+                "mileage": "199 999 km",
+                "year": "2019"
+            },
+            {
+                "name": "Peugeot 3008 Plug-In Hybrid4 300 e-EAT8 Allure Pack",
+                "price": "22 598",
+                "mileage": "126 190 km",
+                "year": "2021"
+            },
+            {
+                "name": "BMW i7 M70 xDrive",
+                "price": "190 475",
+                "mileage": "Electric",
+                "year": "2023"
+            },
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "26 763",
+                "mileage": "70 893 km",
+                "year": "2021"
+            },
+            {
+                "name": "Mercedes-Benz CLS 350 CDI BlueTEC 4MATIC Aut",
+                "price": "23 900",
+                "mileage": "123 304 km",
+                "year": "2015"
+            },
+            {
+                "name": "Skoda Octavia Combi 2.0 TDI DSG Style",
+                "price": "20 900",
+                "mileage": "138 866 km",
+                "year": "2020"
+            },
+            {
+                "name": "Mercedes-Benz CLA 180 d 7G-DCT AMG Line",
+                "price": "25 699",
+                "mileage": "156 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Honda CR-V 2.0 e:HEV 4x4 E-CVT Executive",
+                "price": "32 713",
+                "mileage": "105 499 km",
+                "year": "2020"
+            },
+            {
+                "name": "Opel Astra 1.6 CDTI DPF ecoFLEX Sports TourerStart/Stop Exklusiv",
+                "price": "8 499",
+                "mileage": "189 000 km",
+                "year": "2017"
+            },
+            {
+                "name": "Ford Focus 1.5 EcoBlue Trend Edition",
+                "price": "13 949",
+                "mileage": "144 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "Mercedes-Benz C 200 4Matic 9G-TRONIC AMG Line Advanced",
+                "price": "58 905",
+                "mileage": "4 000 km",
+                "year": "2023"
+            },
+            {
+                "name": "Mercedes-Benz GLE 400 d 4MATIC",
+                "price": "67 818",
+                "mileage": "62 000 km",
+                "year": "2021"
+            },
+            {
+                "name": "Dacia Sandero",
+                "price": "5 999",
+                "mileage": "169 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Mercedes-Benz G AMG 63 SW Long Aut.",
+                "price": "149 990",
+                "mileage": "98 254 km",
+                "year": "2020"
+            },
+            {
+                "name": "Skoda Fabia",
+                "price": "3 499",
+                "mileage": "205 000 km",
+                "year": "2009"
+            },
+            {
+                "name": "Skoda Fabia 1.0 TSI Ambition",
+                "price": "7 950",
+                "mileage": "257 121 km",
+                "year": "2019"
+            },
+            {
+                "name": "BMW Seria 4 430i xDrive AT M Sport",
+                "price": "31 399",
+                "mileage": "51 530 km",
+                "year": "2017"
+            },
+            {
+                "name": "Skoda Octavia Combi 2.0 TDI DSG Style",
+                "price": "9 990",
+                "mileage": "249 909 km",
+                "year": "2014"
+            },
+            {
+                "name": "BMW X1 sDrive18d Advantage",
+                "price": "11 990",
+                "mileage": "314 000 km",
+                "year": "2015"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-03",
+        "cars": [
+            {
+                "name": "Opel Astra 1.4 Selection",
+                "price": "3 999",
+                "mileage": "135 047 km",
+                "year": "2010"
+            },
+            {
+                "name": "Volkswagen Touareg",
+                "price": "18 951",
+                "mileage": "198 633 km",
+                "year": "2016"
+            },
+            {
+                "name": "Renault Megane TCe 140 EDC GPF Intens",
+                "price": "12 989",
+                "mileage": "130 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "BMW X5 M M50d",
+                "price": "31 997",
+                "mileage": "179 850 km",
+                "year": "2017"
+            },
+            {
+                "name": "Nissan Qashqai",
+                "price": "8 800",
+                "mileage": "199 000 km",
+                "year": "2013"
+            },
+            {
+                "name": "Skoda Octavia 2.0 TDI DSG Style",
+                "price": "18 450",
+                "mileage": "43 578 km",
+                "year": "2020"
+            },
+            {
+                "name": "Volvo XC 60 T8 AWD Recharge Geartronic Inscription",
+                "price": "39 949",
+                "mileage": "90 900 km",
+                "year": "2020"
+            },
+            {
+                "name": "Ford Mondeo Vignale 2.0 Hybrid",
+                "price": "17 489",
+                "mileage": "130 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "BMW Seria 3 320d xDrive AT",
+                "price": "14 489",
+                "mileage": "210 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "BMW X1 sDrive18d",
+                "price": "8 499",
+                "mileage": "207 000 km",
+                "year": "2013"
+            },
+            {
+                "name": "Renault Kadjar Energy dCi 110 EDC Business",
+                "price": "12 990",
+                "mileage": "118 482 km",
+                "year": "2017"
+            },
+            {
+                "name": "BMW X5 xDrive30d",
+                "price": "40 990",
+                "mileage": "198 811 km",
+                "year": "2020"
+            },
+            {
+                "name": "Volvo XC 60 T8 AWD Recharge Geartronic Inscription",
+                "price": "42 459",
+                "mileage": "50 287 km",
+                "year": "2021"
+            },
+            {
+                "name": "Volvo XC 60 T8 AWD Recharge Geartronic Inscription",
+                "price": "43 099",
+                "mileage": "48 410 km",
+                "year": "2020"
+            },
+            {
+                "name": "Seat Leon 1.5 TSI Style",
+                "price": "9 990",
+                "mileage": "211 748 km",
+                "year": "2018"
+            },
+            {
+                "name": "Peugeot 301 1.5 BlueHDI FAP Active",
+                "price": "7 990",
+                "mileage": "86 900 km",
+                "year": "2021"
+            },
+            {
+                "name": "BMW X1 xDrive20d",
+                "price": "8 499",
+                "mileage": "208 000 km",
+                "year": "2010"
+            },
+            {
+                "name": "Volvo XC 60 T8 AWD Recharge Geartronic RDesign",
+                "price": "42 845",
+                "mileage": "52 150 km",
+                "year": "2020"
+            },
+            {
+                "name": "BMW Seria 3 320d xDrive GT Sport-Aut. Sport Line",
+                "price": "16 999",
+                "mileage": "182 000 km",
+                "year": "2015"
+            },
+            {
+                "name": "Opel Insignia 2.0 CDTI ECOTEC Start/Stop Cosmo",
+                "price": "8 990",
+                "mileage": "156 000 km",
+                "year": "2014"
+            },
+            {
+                "name": "Mercedes-Benz A 250 Aut.",
+                "price": "24 990",
+                "mileage": "45 871 km",
+                "year": "2019"
+            },
+            {
+                "name": "Volvo XC 60",
+                "price": "17 990",
+                "mileage": "182 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Skoda Octavia 1.6 TDI DSG Style",
+                "price": "14 989",
+                "mileage": "177 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Renault Megane ENERGY dCi 110 Start & Stop Bose Edition",
+                "price": "6 250",
+                "mileage": "229 000 km",
+                "year": "2013"
+            },
+            {
+                "name": "Volvo XC 60",
+                "price": "17 890",
+                "mileage": "226 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Renault Kadjar TCe EDC GPF Zen",
+                "price": "17 850",
+                "mileage": "95 142 km",
+                "year": "2020"
+            },
+            {
+                "name": "Mercedes-Benz GLC Coupe 250 d 4MATIC",
+                "price": "28 990",
+                "mileage": "169 500 km",
+                "year": "2017"
+            },
+            {
+                "name": "Hyundai I30 1.6 CRDI EDITION 30+",
+                "price": "14 199",
+                "mileage": "190 625 km",
+                "year": "2021"
+            },
+            {
+                "name": "Jeep Cherokee 2.2 Mjet AWD Limited",
+                "price": "14 500",
+                "mileage": "189 413 km",
+                "year": "2016"
+            },
+            {
+                "name": "Nissan Navara 2.3 dCi Double Cab Visia",
+                "price": "16 990",
+                "mileage": "134 812 km",
+                "year": "2021"
+            },
+            {
+                "name": "BMW X5 xDrive30d",
+                "price": "21 500",
+                "mileage": "197 252 km",
+                "year": "2015"
+            },
+            {
+                "name": "Skoda Octavia",
+                "price": "11 489",
+                "mileage": "211 000 km",
+                "year": "2019"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-04",
+        "cars": [
+            {
+                "name": "Porsche Cayenne E-Hybrid Tiptronic S Platinum Edition",
+                "price": "77 338",
+                "mileage": "88 208 km",
+                "year": "2019"
+            },
+            {
+                "name": "Mercedes-Benz GLE Coupe 350 de 4Matic 9G-TRONIC AMG Line Advanced Plus",
+                "price": "92 808",
+                "mileage": "5 010 km",
+                "year": "2024"
+            },
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "27 358",
+                "mileage": "59 064 km",
+                "year": "2021"
+            },
+            {
+                "name": "Ford Fiesta 1.5 TDCi Trend",
+                "price": "6 390",
+                "mileage": "65 000 km",
+                "year": "2015"
+            },
+            {
+                "name": "Ford Bronco",
+                "price": "65 188",
+                "mileage": "1 km",
+                "year": "2024"
+            },
+            {
+                "name": "Peugeot 3008 Plug-In Hybrid4 300 e-EAT8 Allure Pack",
+                "price": "22 598",
+                "mileage": "126 190 km",
+                "year": "2021"
+            },
+            {
+                "name": "Toyota Urban Cruiser",
+                "price": "5 999",
+                "mileage": "198 000 km",
+                "year": "2011"
+            },
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "26 763",
+                "mileage": "70 893 km",
+                "year": "2021"
+            },
+            {
+                "name": "Nissan Qashqai 1.2 DIG-T Start/Stop Tekna",
+                "price": "8 990",
+                "mileage": "74 000 km",
+                "year": "2015"
+            },
+            {
+                "name": "Mercedes-Benz GLK 250 CDI DPF 4Matic BlueEFFICIENCY 7G-TRONIC SPORT EDITION",
+                "price": "17 800",
+                "mileage": "189 026 km",
+                "year": "2013"
+            },
+            {
+                "name": "Audi A4 2.0 TDI Avant",
+                "price": "8 990",
+                "mileage": "255 000 km",
+                "year": "2013"
+            },
+            {
+                "name": "Mercedes-Benz CLA 180 d 7G-DCT AMG Line",
+                "price": "24 998",
+                "mileage": "156 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Honda CR-V 2.0 e:HEV 4x4 E-CVT Executive",
+                "price": "32 713",
+                "mileage": "105 499 km",
+                "year": "2020"
+            },
+            {
+                "name": "Opel Astra 1.6 CDTI DPF ecoFLEX Sports TourerStart/Stop Exklusiv",
+                "price": "8 499",
+                "mileage": "189 000 km",
+                "year": "2017"
+            },
+            {
+                "name": "Hyundai ix35 1.6 2WD Fifa World Cup Edition",
+                "price": "9 300",
+                "mileage": "168 000 km",
+                "year": "2012"
+            },
+            {
+                "name": "Hyundai ix35",
+                "price": "7 999",
+                "mileage": "230 000 km",
+                "year": "2010"
+            },
+            {
+                "name": "Dacia Duster",
+                "price": "18 698",
+                "mileage": "55 193 km",
+                "year": "2021"
+            },
+            {
+                "name": "Mercedes-Benz GLC 220 d 4Matic 9G-TRONIC AMG Line",
+                "price": "28 500",
+                "mileage": "142 914 km",
+                "year": "2018"
+            },
+            {
+                "name": "Volkswagen Polo 1.6 TDI DPF DSG Comfortline",
+                "price": "6 400",
+                "mileage": "269 843 km",
+                "year": "2013"
+            },
+            {
+                "name": "BMW X1 sDrive18d Advantage",
+                "price": "11 990",
+                "mileage": "314 000 km",
+                "year": "2015"
+            },
+            {
+                "name": "Skoda Karoq 2.0 TDI 4X4 DSG Style",
+                "price": "19 490",
+                "mileage": "171 800 km",
+                "year": "2021"
+            },
+            {
+                "name": "Skoda Octavia 2.0 TDI DSG Ambition",
+                "price": "19 949",
+                "mileage": "119 863 km",
+                "year": "2021"
+            },
+            {
+                "name": "Hyundai Tucson",
+                "price": "21 989",
+                "mileage": "111 677 km",
+                "year": "2021"
+            },
+            {
+                "name": "Mercedes-Benz GLC Coupe 300 e 4MATIC",
+                "price": "84 966",
+                "mileage": "6 376 km",
+                "year": "2024"
+            },
+            {
+                "name": "Audi A5 Sportback 40 TDI quattro S tronic S line",
+                "price": "27 489",
+                "mileage": "151 700 km",
+                "year": "2019"
+            },
+            {
+                "name": "Mercedes-Benz GLC Coupe 220 d 4MATIC MHEV",
+                "price": "69 600",
+                "mileage": "3 950 km",
+                "year": "2023"
+            },
+            {
+                "name": "Renault Megane",
+                "price": "13 990",
+                "mileage": "151 000 km",
+                "year": "2021"
+            },
+            {
+                "name": "Mercedes-Benz CLA 200 d Coupe Aut.",
+                "price": "37 606",
+                "mileage": "30 883 km",
+                "year": "2022"
+            },
+            {
+                "name": "Mercedes-Benz GLB 200 d 4MATIC Aut.",
+                "price": "53 054",
+                "mileage": "7 596 km",
+                "year": "2024"
+            },
+            {
+                "name": "Mercedes-Benz GLC Coupe 220 d 4MATIC MHEV",
+                "price": "71 139",
+                "mileage": "5 311 km",
+                "year": "2023"
+            },
+            {
+                "name": "Mercedes-Benz GLA 250 e",
+                "price": "46 917",
+                "mileage": "14 978 km",
+                "year": "2023"
+            },
+            {
+                "name": "Mercedes-Benz GLE Coupe 400 d 4MATIC",
+                "price": "79 800",
+                "mileage": "50 494 km",
+                "year": "2021"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-07",
+        "cars": [
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "27 358",
+                "mileage": "59 064 km",
+                "year": "2021"
+            },
+            {
+                "name": "Renault Kadjar 1.5 DCI EDC Intens",
+                "price": "12 490",
+                "mileage": "147 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Ford Puma 1.0 EcoBoost Hybrid TITANIUM",
+                "price": "16 053",
+                "mileage": "42 500 km",
+                "year": "2020"
+            },
+            {
+                "name": "BMW X4 xDrive30i Aut. M Sport X",
+                "price": "34 950",
+                "mileage": "99 000 km",
+                "year": "2018"
+            },
+            {
+                "name": "Peugeot 3008 Plug-In Hybrid4 300 e-EAT8 Allure Pack",
+                "price": "22 598",
+                "mileage": "126 190 km",
+                "year": "2021"
+            },
+            {
+                "name": "Mercedes-Benz GLA 200 d 4MATIC Aut.",
+                "price": "37 247",
+                "mileage": "33 718 km",
+                "year": "2022"
+            },
+            {
+                "name": "DS Automobiles DS 7 Crossback DS7 Crosback 1.6 PHeV AWD 300 EAT8 Rivoli",
+                "price": "30 333",
+                "mileage": "96 148 km",
+                "year": "2021"
+            },
+            {
+                "name": "Volvo V60 D3 Geartronic Momentum Pro",
+                "price": "16 650",
+                "mileage": "211 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Volkswagen Golf 1.0 TSI Life",
+                "price": "14 799",
+                "mileage": "66 033 km",
+                "year": "2021"
+            },
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "26 763",
+                "mileage": "70 893 km",
+                "year": "2021"
+            },
+            {
+                "name": "Toyota iQ 1.0 VVT-i",
+                "price": "4 250",
+                "mileage": "153 027 km",
+                "year": "2009"
+            },
+            {
+                "name": "Toyota C-HR 1.8 Hybrid Business Edition",
+                "price": "29 143",
+                "mileage": "500 km",
+                "year": "2023"
+            },
+            {
+                "name": "Dacia Duster 1.6 SCe Prestige jante 17\"",
+                "price": "12 850",
+                "mileage": "145 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Mercedes-Benz CLA 180 d 7G-DCT AMG Line",
+                "price": "24 998",
+                "mileage": "156 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Volkswagen Passat CC 2.0 TDI DPF DSG",
+                "price": "9 989",
+                "mileage": "140 000 km",
+                "year": "2009"
+            },
+            {
+                "name": "Mini Countryman Cooper S E ALL4 AT",
+                "price": "16 990",
+                "mileage": "150 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "Skoda Octavia 2.0 TDI DSG Style",
+                "price": "22 598",
+                "mileage": "157 207 km",
+                "year": "2021"
+            },
+            {
+                "name": "BMW Seria 3",
+                "price": "12 989",
+                "mileage": "200 000 km",
+                "year": "2014"
+            },
+            {
+                "name": "Porsche Panamera 3.0 Tiptronic S",
+                "price": "29 989",
+                "mileage": "150 000 km",
+                "year": "2014"
+            },
+            {
+                "name": "Honda CR-V 2.0 e:HEV 4x4 E-CVT Executive",
+                "price": "32 713",
+                "mileage": "105 499 km",
+                "year": "2020"
+            },
+            {
+                "name": "Jeep Compass 1.3T 4xe AT6 PHEV Altitude",
+                "price": "23 788",
+                "mileage": "92 130 km",
+                "year": "2021"
+            },
+            {
+                "name": "Opel Astra 1.6 CDTI DPF ecoFLEX Sports TourerStart/Stop Exklusiv",
+                "price": "8 499",
+                "mileage": "189 000 km",
+                "year": "2017"
+            },
+            {
+                "name": "Mercedes-Benz S 500 4MATIC MHEV Long Aut.",
+                "price": "164 208",
+                "mileage": "3 000 km",
+                "year": "2023"
+            },
+            {
+                "name": "Mercedes-Benz C 200 T 9G-TRONIC AMG Line",
+                "price": "20 750",
+                "mileage": "87 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Audi Q5 2.0 TDI quattro S tronic",
+                "price": "25 899",
+                "mileage": "72 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Maserati Levante",
+                "price": "39 990",
+                "mileage": "175 108 km",
+                "year": "2016"
+            },
+            {
+                "name": "Nissan Qashqai 1.3 DIG-T MHEV Xtronic Tekna",
+                "price": "33 308",
+                "mileage": "12 186 km",
+                "year": "2024"
+            },
+            {
+                "name": "Mercedes-Benz GLC 220 d 4Matic 9G-TRONIC AMG Line",
+                "price": "28 500",
+                "mileage": "142 914 km",
+                "year": "2018"
+            },
+            {
+                "name": "Tesla Model X",
+                "price": "50 199",
+                "mileage": "68 928 km",
+                "year": "2019"
+            },
+            {
+                "name": "Mercedes-Benz CLA 180 d 7G-DCT AMG Line",
+                "price": "28 960",
+                "mileage": "109 600 km",
+                "year": "2019"
+            },
+            {
+                "name": "Mercedes-Benz G AMG 63 SW Long Aut.",
+                "price": "195 636",
+                "mileage": "1 km",
+                "year": "2024"
+            },
+            {
+                "name": "Audi Q5 2.0 TDI Quattro S-Tronic",
+                "price": "10 990",
+                "mileage": "222 000 km",
+                "year": "2011"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-08",
+        "cars": [
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "27 358",
+                "mileage": "59 064 km",
+                "year": "2021"
+            },
+            {
+                "name": "Mercedes-Benz E",
+                "price": "43 499",
+                "mileage": "59 526 km",
+                "year": "2019"
+            },
+            {
+                "name": "BMW Seria 4 430i xDrive AT M Sport",
+                "price": "31 399",
+                "mileage": "51 530 km",
+                "year": "2017"
+            },
+            {
+                "name": "Hyundai I30 1.6 CRDI Fastback 48V-Hybrid DCT Prime",
+                "price": "13 950",
+                "mileage": "145 784 km",
+                "year": "2018"
+            },
+            {
+                "name": "Renault Talisman ENERGY dCi 160 EDC INITIALE PARIS",
+                "price": "16 990",
+                "mileage": "100 000 km",
+                "year": "2017"
+            },
+            {
+                "name": "Peugeot 3008 Plug-In Hybrid4 300 e-EAT8 Allure Pack",
+                "price": "22 598",
+                "mileage": "126 190 km",
+                "year": "2021"
+            },
+            {
+                "name": "DS Automobiles DS 7 Crossback DS7 Crosback 1.6 PHeV AWD 300 EAT8 Rivoli",
+                "price": "30 333",
+                "mileage": "96 148 km",
+                "year": "2021"
+            },
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "26 763",
+                "mileage": "70 893 km",
+                "year": "2021"
+            },
+            {
+                "name": "Toyota iQ 1.0 VVT-i",
+                "price": "4 250",
+                "mileage": "153 027 km",
+                "year": "2009"
+            },
+            {
+                "name": "Toyota C-HR 1.8 Hybrid Business Edition",
+                "price": "29 143",
+                "mileage": "500 km",
+                "year": "2023"
+            },
+            {
+                "name": "Mercedes-Benz CLA 180 d 7G-DCT AMG Line",
+                "price": "24 998",
+                "mileage": "156 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Skoda Octavia 2.0 TDI DSG Style",
+                "price": "22 598",
+                "mileage": "157 207 km",
+                "year": "2021"
+            },
+            {
+                "name": "BMW X3",
+                "price": "26 490",
+                "mileage": "112 000 km",
+                "year": "2018"
+            },
+            {
+                "name": "Honda CR-V 2.0 e:HEV 4x4 E-CVT Executive",
+                "price": "32 713",
+                "mileage": "105 499 km",
+                "year": "2020"
+            },
+            {
+                "name": "Jeep Compass 1.3T 4xe AT6 PHEV Altitude",
+                "price": "23 788",
+                "mileage": "92 130 km",
+                "year": "2021"
+            },
+            {
+                "name": "Mercedes-Benz GLB",
+                "price": "25 890",
+                "mileage": "147 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "Opel Astra 1.6 CDTI DPF ecoFLEX Sports TourerStart/Stop Exklusiv",
+                "price": "8 499",
+                "mileage": "189 000 km",
+                "year": "2017"
+            },
+            {
+                "name": "Volkswagen Passat CC 2.0 TDI 4Motion DSG BMT",
+                "price": "12 489",
+                "mileage": "230 000 km",
+                "year": "2013"
+            },
+            {
+                "name": "Mercedes-Benz GLC 220 d 4Matic 9G-TRONIC AMG Line",
+                "price": "28 500",
+                "mileage": "142 914 km",
+                "year": "2018"
+            },
+            {
+                "name": "BMW i4",
+                "price": "68 901",
+                "mileage": "4 000 km",
+                "year": "2023"
+            },
+            {
+                "name": "Hyundai Tucson 2.0 CRDI 4WD 6AT Style",
+                "price": "17 450",
+                "mileage": "120 000 km",
+                "year": "2018"
+            },
+            {
+                "name": "Mercedes-Benz Vito Tourer Extra-Lung 114 CDI 136CP RWD 9AT PRO",
+                "price": "36 999",
+                "mileage": "147 000 km",
+                "year": "2021"
+            },
+            {
+                "name": "BMW X1 sDrive18d Advantage",
+                "price": "11 990",
+                "mileage": "314 000 km",
+                "year": "2015"
+            },
+            {
+                "name": "Skoda Octavia Combi 2.0 TDI DSG Style",
+                "price": "9 990",
+                "mileage": "249 909 km",
+                "year": "2014"
+            },
+            {
+                "name": "Opel Astra Sport Tourer 1.6 CDTI ECOTEC ECOFlex Start/Stop Enjoy",
+                "price": "6 550",
+                "mileage": "233 850 km",
+                "year": "2017"
+            },
+            {
+                "name": "Nissan Qashqai 1.3 DIG-T MHEV Xtronic N-Connecta",
+                "price": "16 890",
+                "mileage": "130 321 km",
+                "year": "2020"
+            },
+            {
+                "name": "Nissan Juke 1.6 CVT Tekna",
+                "price": "9 700",
+                "mileage": "136 296 km",
+                "year": "2013"
+            },
+            {
+                "name": "Volvo XC 90 T8 AWD Recharge Geartronic Inscription",
+                "price": "49 968",
+                "mileage": "64 528 km",
+                "year": "2020"
+            },
+            {
+                "name": "Mitsubishi ASX 1.8 DI-D 4WD Comfort Edition",
+                "price": "7 500",
+                "mileage": "234 500 km",
+                "year": "2011"
+            },
+            {
+                "name": "Volvo XC 60 T6 AWD Recharge Geartronic RDesign",
+                "price": "39 258",
+                "mileage": "95 814 km",
+                "year": "2021"
+            },
+            {
+                "name": "BMW X5 xDrive30d",
+                "price": "51 949",
+                "mileage": "113 300 km",
+                "year": "2019"
+            },
+            {
+                "name": "Renault Talisman Grandtour BLUE dCi 120 LIFE",
+                "price": "12 851",
+                "mileage": "244 535 km",
+                "year": "2019"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-09",
+        "cars": [
+            {
+                "name": "Porsche Cayenne Coupe E-Hybrid Tiptronic S Platinum Edition",
+                "price": "80 907",
+                "mileage": "87 578 km",
+                "year": "2021"
+            },
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "27 358",
+                "mileage": "59 064 km",
+                "year": "2021"
+            },
+            {
+                "name": "Audi A4 35 TFSI S tronic S Line",
+                "price": "19 500",
+                "mileage": "167 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "Toyota Yaris Cross",
+                "price": "22 950",
+                "mileage": "50 000 km",
+                "year": "2022"
+            },
+            {
+                "name": "Skoda Octavia Combi 1.0 TSI e-TEC DSG Style",
+                "price": "15 450",
+                "mileage": "190 395 km",
+                "year": "2021"
+            },
+            {
+                "name": "Mercedes-Benz A 150 BlueEFFICIENCY",
+                "price": "2 999",
+                "mileage": "205 000 km",
+                "year": "2006"
+            },
+            {
+                "name": "Peugeot 3008 Plug-In Hybrid4 300 e-EAT8 Allure Pack",
+                "price": "22 598",
+                "mileage": "126 190 km",
+                "year": "2021"
+            },
+            {
+                "name": "Mercedes-Benz E",
+                "price": "28 900",
+                "mileage": "216 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "Audi A4 Avant 2.0 TDI DPF quattro S tronic S line Sportpaket",
+                "price": "11 800",
+                "mileage": "213 000 km",
+                "year": "2014"
+            },
+            {
+                "name": "DS Automobiles DS 7 Crossback DS7 Crosback 1.6 PHeV AWD 300 EAT8 Rivoli",
+                "price": "30 333",
+                "mileage": "96 148 km",
+                "year": "2021"
+            },
+            {
+                "name": "BMW X4 xDrive20d Aut. M Sport",
+                "price": "21 700",
+                "mileage": "178 292 km",
+                "year": "2015"
+            },
+            {
+                "name": "Mercedes-Benz C 220 d 4Matic 9G-TRONIC AMG Line",
+                "price": "31 522",
+                "mileage": "117 961 km",
+                "year": "2020"
+            },
+            {
+                "name": "BMW X1",
+                "price": "26 491",
+                "mileage": "54 740 km",
+                "year": "2021"
+            },
+            {
+                "name": "BMW X3 xDrive20d Edition Exclusive",
+                "price": "8 500",
+                "mileage": "240 000 km",
+                "year": "2010"
+            },
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "26 763",
+                "mileage": "70 893 km",
+                "year": "2021"
+            },
+            {
+                "name": "Toyota iQ 1.0 VVT-i",
+                "price": "4 250",
+                "mileage": "153 027 km",
+                "year": "2009"
+            },
+            {
+                "name": "Toyota C-HR 1.8 Hybrid Business Edition",
+                "price": "29 143",
+                "mileage": "500 km",
+                "year": "2023"
+            },
+            {
+                "name": "Renault Grand Scenic ENERGY dCi 130 BOSE EDITION",
+                "price": "6 499",
+                "mileage": "218 195 km",
+                "year": "2014"
+            },
+            {
+                "name": "Audi Q5 50 TFSIe quattro S tronic",
+                "price": "35 900",
+                "mileage": "102 099 km",
+                "year": "2021"
+            },
+            {
+                "name": "Audi A5 Sportback 2.0 TDI S tronic Design",
+                "price": "20 230",
+                "mileage": "192 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Audi A3 Sportback 1.4 TFSI S-tronic Attraction",
+                "price": "6 999",
+                "mileage": "206 000 km",
+                "year": "2011"
+            },
+            {
+                "name": "Mercedes-Benz CLA 180 d 7G-DCT AMG Line",
+                "price": "24 998",
+                "mileage": "156 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "BMW Seria 3",
+                "price": "26 599",
+                "mileage": "69 668 km",
+                "year": "2021"
+            },
+            {
+                "name": "Skoda Octavia 2.0 TDI DSG Style",
+                "price": "22 598",
+                "mileage": "157 207 km",
+                "year": "2021"
+            },
+            {
+                "name": "Audi Q7 3.0 TDI e-tron quattro tiptronic",
+                "price": "31 950",
+                "mileage": "223 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Toyota Camry 2.5 Hybrid Exclusive",
+                "price": "28 999",
+                "mileage": "122 010 km",
+                "year": "2022"
+            },
+            {
+                "name": "Peugeot 5008 1.5 BlueHDI s&s GT-Line",
+                "price": "15 000",
+                "mileage": "188 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Honda CR-V 2.0 e:HEV 4x4 E-CVT Executive",
+                "price": "32 713",
+                "mileage": "105 499 km",
+                "year": "2020"
+            },
+            {
+                "name": "Jeep Compass 1.3T 4xe AT6 PHEV Altitude",
+                "price": "23 788",
+                "mileage": "92 130 km",
+                "year": "2021"
+            },
+            {
+                "name": "Opel Astra 1.6 CDTI DPF ecoFLEX Sports TourerStart/Stop Exklusiv",
+                "price": "8 499",
+                "mileage": "189 000 km",
+                "year": "2017"
+            },
+            {
+                "name": "Renault Clio V TCe 90 Techno",
+                "price": "12 289",
+                "mileage": "22 578 km",
+                "year": "2023"
+            },
+            {
+                "name": "Mercedes-Benz GLA 250 e",
+                "price": "49 899",
+                "mileage": "10 km",
+                "year": "2023"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-10",
+        "cars": [
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "27 358",
+                "mileage": "59 064 km",
+                "year": "2021"
+            },
+            {
+                "name": "BMW X3 xDrive20d AT Luxury Line",
+                "price": "23 950",
+                "mileage": "175 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Volkswagen ARTEON 2.0 TDI DSG R-Line",
+                "price": "25 990",
+                "mileage": "110 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "Peugeot 3008 Plug-In Hybrid4 300 e-EAT8 Allure Pack",
+                "price": "22 598",
+                "mileage": "126 190 km",
+                "year": "2021"
+            },
+            {
+                "name": "DS Automobiles DS 7 Crossback DS7 Crosback 1.6 PHeV AWD 300 EAT8 Rivoli",
+                "price": "30 333",
+                "mileage": "96 148 km",
+                "year": "2021"
+            },
+            {
+                "name": "Ford Bronco",
+                "price": "65 188",
+                "mileage": "1 km",
+                "year": "2024"
+            },
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "26 763",
+                "mileage": "70 893 km",
+                "year": "2021"
+            },
+            {
+                "name": "Toyota iQ 1.0 VVT-i",
+                "price": "4 250",
+                "mileage": "153 027 km",
+                "year": "2009"
+            },
+            {
+                "name": "Nissan Qashqai 1.2 DIG-T Start/Stop Tekna",
+                "price": "8 990",
+                "mileage": "74 000 km",
+                "year": "2015"
+            },
+            {
+                "name": "Toyota C-HR 1.8 Hybrid Business Edition",
+                "price": "29 143",
+                "mileage": "500 km",
+                "year": "2023"
+            },
+            {
+                "name": "Audi A4 2.0 TDI Avant",
+                "price": "8 990",
+                "mileage": "255 000 km",
+                "year": "2013"
+            },
+            {
+                "name": "Audi A5",
+                "price": "11 500",
+                "mileage": "217 000 km",
+                "year": "2012"
+            },
+            {
+                "name": "Mercedes-Benz CLA 180 d 7G-DCT AMG Line",
+                "price": "24 998",
+                "mileage": "156 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Volkswagen Golf",
+                "price": "10 500",
+                "mileage": "196 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Skoda Octavia 2.0 TDI DSG Style",
+                "price": "22 598",
+                "mileage": "157 207 km",
+                "year": "2021"
+            },
+            {
+                "name": "Honda CR-V 2.0 e:HEV 4x4 E-CVT Executive",
+                "price": "32 713",
+                "mileage": "105 499 km",
+                "year": "2020"
+            },
+            {
+                "name": "Jeep Compass 1.3T 4xe AT6 PHEV Altitude",
+                "price": "23 788",
+                "mileage": "92 130 km",
+                "year": "2021"
+            },
+            {
+                "name": "Opel Astra 1.6 CDTI DPF ecoFLEX Sports TourerStart/Stop Exklusiv",
+                "price": "8 499",
+                "mileage": "189 000 km",
+                "year": "2017"
+            },
+            {
+                "name": "Mercedes-Benz GLK 250 CDI DPF 4Matic BlueEFFICIENCY 7G-TRONIC SPORT EDITION",
+                "price": "17 800",
+                "mileage": "189 026 km",
+                "year": "2013"
+            },
+            {
+                "name": "Mercedes-Benz S 500 4MATIC MHEV Long Aut.",
+                "price": "164 208",
+                "mileage": "3 000 km",
+                "year": "2023"
+            },
+            {
+                "name": "Ford Focus 1.5 EcoBlue Trend Edition",
+                "price": "13 949",
+                "mileage": "144 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "Hyundai ix35",
+                "price": "7 999",
+                "mileage": "230 000 km",
+                "year": "2010"
+            },
+            {
+                "name": "Mercedes-Benz GLC 220 d 4Matic 9G-TRONIC AMG Line",
+                "price": "28 500",
+                "mileage": "142 914 km",
+                "year": "2018"
+            },
+            {
+                "name": "Volkswagen Polo 1.6 TDI DPF DSG Comfortline",
+                "price": "6 400",
+                "mileage": "269 843 km",
+                "year": "2013"
+            },
+            {
+                "name": "Volvo XC 60 T6 AWD Recharge Geartronic RDesign",
+                "price": "42 934",
+                "mileage": "61 382 km",
+                "year": "2021"
+            },
+            {
+                "name": "BMW X1 sDrive18d Advantage",
+                "price": "11 990",
+                "mileage": "314 000 km",
+                "year": "2015"
+            },
+            {
+                "name": "BMW X6 xDrive40d",
+                "price": "39 990",
+                "mileage": "130 000 km",
+                "year": "2018"
+            },
+            {
+                "name": "Skoda Octavia 2.0 TDI DSG Ambition",
+                "price": "19 949",
+                "mileage": "119 863 km",
+                "year": "2021"
+            },
+            {
+                "name": "Hyundai Tucson",
+                "price": "21 989",
+                "mileage": "111 677 km",
+                "year": "2021"
+            },
+            {
+                "name": "Audi A5 Sportback 40 TDI quattro S tronic S line",
+                "price": "27 489",
+                "mileage": "151 700 km",
+                "year": "2019"
+            },
+            {
+                "name": "BMW X1 xDrive23d Aut.",
+                "price": "8 999",
+                "mileage": "196 000 km",
+                "year": "2013"
+            },
+            {
+                "name": "Nissan Juke 1.6 CVT Tekna",
+                "price": "9 700",
+                "mileage": "136 296 km",
+                "year": "2013"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-11",
+        "cars": [
+            {
+                "name": "Dacia Duster TCe 125 4x2 Prestige",
+                "price": "8 700",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volvo XC 60 D4 Geartronic Summum",
+                "price": "15 599",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Audi A5",
+                "price": "11 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Ford Kuga 2.0 TDCi 4WD Titanium",
+                "price": "13 999",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Seat Leon ST 2.0 TDI Start&Stop 4Drive DSG X-Perience",
+                "price": "13 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Skoda Octavia 1.6 TDI Ambition",
+                "price": "13 449",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Ford Kuga 2.0 TDCi Powershift 4WD Titanium",
+                "price": "14 689",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volkswagen Golf",
+                "price": "10 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW Seria 5 520d xDrive Aut. Luxury Line",
+                "price": "14 999",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Dacia Duster 1.6 SCe Comfort",
+                "price": "10 990",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volkswagen Tiguan",
+                "price": "12 490",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Honda Civic Sedan 1.5 VTEC Turbo CVT Executive",
+                "price": "16 250",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz E 220 d T 9G-TRONIC Avantgarde",
+                "price": "24 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volkswagen Phaeton 3.0 V6 TDI DPF 4MOTION langer Radstand Aut (4 Sitzer)",
+                "price": "16 490",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Skoda Superb 2.0 TDI DSG Ambition",
+                "price": "20 932",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW X1 sDrive18d",
+                "price": "8 499",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Dacia Logan",
+                "price": "11 799",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Nissan Qashqai",
+                "price": "17 799",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Skoda Octavia Combi 2.0 TDI DSG Ambition",
+                "price": "17 989",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Ford Focus",
+                "price": "3 250",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Jaguar F-Pace S AWD",
+                "price": "27 999",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Jeep Cherokee 2.2 Mjet AWD Limited",
+                "price": "14 700",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volvo XC 60 D5 AWD Aut. Summum",
+                "price": "12 989",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Dacia Duster 1.5 Blue dCi Comfort",
+                "price": "12 990",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Suzuki Grand Vitara 1.9 DDIS JX",
+                "price": "8 550",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Skoda Octavia 1.6 TDI DSG Style",
+                "price": "14 989",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Suzuki SX4 S-Cross 1.4 ALLGRIP Luxus Aut.",
+                "price": "18 750",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Audi A6 2.0 TDI ultra S tronic",
+                "price": "17 800",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Audi A5 Sportback 2.0 TDI ultra S tronic",
+                "price": "17 750",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volkswagen Tiguan",
+                "price": "12 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Hyundai Tucson M-Hybrid 1.6 l 180 CP 4WD 7DCT Style+",
+                "price": "23 450",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Dacia Duster 1.5 Blue dCi 4WD Comfort",
+                "price": "14 449",
+                "mileage": "N/A",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-12",
+        "cars": [
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "27 358",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volvo XC 60 T8 Twin Engine AWD Geartronic Inscription",
+                "price": "33 450",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW Seria 3 320d xDrive Coupe Edition Exclusive",
+                "price": "9 950",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volvo XC 40 Recharge T5 Twin Engine AT7 Inscription",
+                "price": "34 499",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Toyota 4Runner",
+                "price": "19 990",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Hyundai I30 1.6 CRDI Fastback 48V-Hybrid DCT Prime",
+                "price": "13 950",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz EQA 250",
+                "price": "39 900",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Peugeot 3008 Plug-In Hybrid4 300 e-EAT8 Allure Pack",
+                "price": "22 598",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "DS Automobiles DS 7 Crossback DS7 Crosback 1.6 PHeV AWD 300 EAT8 Rivoli",
+                "price": "30 333",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "26 763",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Toyota iQ 1.0 VVT-i",
+                "price": "4 250",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Chevrolet Camaro",
+                "price": "34 990",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Toyota C-HR 1.8 Hybrid Business Edition",
+                "price": "29 143",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Nissan Juke",
+                "price": "7 450",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Audi A5",
+                "price": "11 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz C 220 d 4Matic 9G-TRONIC AMG Line",
+                "price": "31 522",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz CLA 180 d 7G-DCT AMG Line",
+                "price": "24 998",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW X1 xDrive30e Aut. M Sportpaket",
+                "price": "52 348",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz CLS 400 d 4Matic 9G-TRONIC AMG Line",
+                "price": "49 967",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW Seria 5 520i AT",
+                "price": "32 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volkswagen Golf",
+                "price": "10 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Skoda Octavia 2.0 TDI DSG Style",
+                "price": "22 598",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Porsche Panamera 3.0 Tiptronic S",
+                "price": "29 989",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Honda CR-V 2.0 e:HEV 4x4 E-CVT Executive",
+                "price": "32 713",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Jeep Compass 1.3T 4xe AT6 PHEV Altitude",
+                "price": "23 788",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW Seria 5 530d xDrive",
+                "price": "10 990",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW Seria 5 530d xDrive Sport-Aut. Luxury Line",
+                "price": "18 990",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW X5 xDrive30d AT MHEV",
+                "price": "61 499",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz GLC 220 d 4Matic 9G-TRONIC AMG Line",
+                "price": "28 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz E 200 4Matic 9G-TRONIC",
+                "price": "27 953",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volkswagen Golf 1.2 TSI BlueMotion Technology MATCH",
+                "price": "5 699",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW X1 sDrive18d Advantage",
+                "price": "11 990",
+                "mileage": "N/A",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-13",
+        "cars": [
+            {
+                "name": "Dacia Duster TCe 125 4x2 Prestige",
+                "price": "8 700",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volvo XC 60 D4 Geartronic Summum",
+                "price": "15 599",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Audi A5",
+                "price": "11 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Seat Leon ST 2.0 TDI Start&Stop 4Drive DSG X-Perience",
+                "price": "13 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Hyundai Tucson 1.6 l 150 CP 2WD 6MT Style",
+                "price": "17 860",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Ford Kuga 2.0 TDCi Powershift 4WD Titanium",
+                "price": "14 389",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Ford Kuga 2.5 Duratec PHEV Titanium",
+                "price": "18 700",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Hyundai Elantra 1.6 l 123 CP 6MT Highway",
+                "price": "15 900",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Nissan Qashqai DIG-T Start/Stop Acenta",
+                "price": "14 000",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Citroën DS7 Crossback PureTech 180 Aut. BASTILLE +",
+                "price": "20 499",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Audi A8",
+                "price": "44 000",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volvo XC 60 D5 AWD Rdesign",
+                "price": "16 800",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volkswagen Golf",
+                "price": "10 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volkswagen Tiguan 2.0 TDI DPF 4Motion BlueMotion Technology DSG Life",
+                "price": "13 250",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW X3 xDrive20d Aut.",
+                "price": "13 200",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW X1 sDrive18d",
+                "price": "8 499",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW Seria 5 520d xDrive Aut. Luxury Line",
+                "price": "14 999",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volvo XC 60 D5 AWD Aut. Summum",
+                "price": "12 989",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Suzuki Grand Vitara 1.9 DDIS JX",
+                "price": "8 550",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz A 180 CDI (BlueEFFICIENCY)",
+                "price": "11 200",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Jaguar F-Pace S AWD",
+                "price": "27 999",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Skoda Superb Combi 1.4 TSI iV DSG Style",
+                "price": "21 950",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Jeep Cherokee 2.2 Mjet AWD Limited",
+                "price": "14 700",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Audi A5 Sportback 2.0 TDI ultra S tronic",
+                "price": "17 750",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volvo V60 D3 Geartronic Momentum Pro",
+                "price": "16 350",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Kia Sorento 2.2 CRDi AWD Aut. Platinum Edition",
+                "price": "19 790",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Audi A6 2.0 TDI ultra S tronic",
+                "price": "17 800",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz GLE Coupe 43 AMG 4MATIC",
+                "price": "31 990",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Nissan Qashqai 2.0 DCI 4 x 4 DPF I-Way",
+                "price": "6 000",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Ford Focus 1.0 EcoBoost Active Business",
+                "price": "14 449",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Ford Focus 1.0 EcoBoost Active Business",
+                "price": "14 449",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz E",
+                "price": "28 900",
+                "mileage": "N/A",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-14",
+        "cars": [
+            {
+                "name": "Audi A6",
+                "price": "12 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "27 358",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volvo XC 60 T8 Twin Engine AWD Geartronic Inscription",
+                "price": "33 450",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz E",
+                "price": "43 499",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW Seria 4 430i xDrive AT M Sport",
+                "price": "31 399",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Ford Puma 1.0 EcoBoost Hybrid TITANIUM",
+                "price": "16 053",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz GLC 300 de 4MATIC",
+                "price": "76 041",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Peugeot 3008 Plug-In Hybrid4 300 e-EAT8 Allure Pack",
+                "price": "22 598",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "DS Automobiles DS 7 Crossback DS7 Crosback 1.6 PHeV AWD 300 EAT8 Rivoli",
+                "price": "30 333",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW X1 xDrive25e Aut. xLine",
+                "price": "26 763",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Toyota iQ 1.0 VVT-i",
+                "price": "4 250",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Toyota C-HR 1.8 Hybrid Business Edition",
+                "price": "29 143",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Dacia Duster 1.6 SCe Prestige jante 17\"",
+                "price": "12 850",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Audi A5",
+                "price": "11 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz C 220 d 4Matic 9G-TRONIC AMG Line",
+                "price": "31 522",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz CLA 180 d 7G-DCT AMG Line",
+                "price": "24 998",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW X1 xDrive30e Aut. M Sportpaket",
+                "price": "52 348",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz CLS 400 d 4Matic 9G-TRONIC AMG Line",
+                "price": "49 967",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Volkswagen Golf",
+                "price": "10 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Skoda Octavia 2.0 TDI DSG Style",
+                "price": "22 598",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Honda CR-V 2.0 e:HEV 4x4 E-CVT Executive",
+                "price": "32 713",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Jeep Compass 1.3T 4xe AT6 PHEV Altitude",
+                "price": "23 788",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW X3",
+                "price": "26 490",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz GLB",
+                "price": "25 890",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz S 500 4MATIC MHEV Long Aut.",
+                "price": "164 208",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz C 200 T 9G-TRONIC AMG Line",
+                "price": "19 900",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz GLA 200 MHEV Aut.",
+                "price": "48 435",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Porsche Macan Standard",
+                "price": "33 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz GLC 220 d 4Matic 9G-TRONIC AMG Line",
+                "price": "28 500",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz S 500 4MATIC MHEV Long Aut.",
+                "price": "149 940",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Audi Q3 2.0 TDI Quattro Stronic",
+                "price": "13 950",
+                "mileage": "N/A",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz GLA 250 e",
+                "price": "47 148",
+                "mileage": "N/A",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-15",
+        "cars": [
+            {
+                "name": "Dacia Duster TCe 125 4x2 Prestige",
+                "price": "8 990",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Kia Niro 1.6 GDI 6DCT PHEV Comfort",
+                "price": "16 898",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "BMW Seria 5 520d",
+                "price": "13 999",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Volvo V60 T5 Geartronic Momentum",
+                "price": "18 445",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Mercedes-Benz G AMG 63 SW Long Aut.",
+                "price": "192 999",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Skoda Octavia 1.0 TSI Style",
+                "price": "16 449",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Lexus Seria RX 450h (hybrid)",
+                "price": "29 989",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Volvo XC 60 B4 D AWD Geartronic Momentum Pro",
+                "price": "36 850",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Skoda Kamiq 1.0 TSI DSG Style",
+                "price": "18 489",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Renault Megane ENERGY dCi Business",
+                "price": "9 989",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "BMW X4 xDrive20d Aut. xLine",
+                "price": "20 990",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "BMW M5 CS",
+                "price": "88 999",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Mercedes-Benz CLA 200 (CDI) d 7G-DCT Urban",
+                "price": "17 499",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "BMW X1 xDrive20i AT",
+                "price": "33 990",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Mercedes-Benz GLB 180 Aut.",
+                "price": "35 688",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Citroën C3 AIRCROSS 1.5 BlueHDi S&S BVM6 Feel Pack",
+                "price": "13 390",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Mercedes-Benz B 200 (CDI) d 7G-DCT",
+                "price": "10 950",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Mercedes-Benz GLC 220 d 4MATIC",
+                "price": "35 900",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Mercedes-Benz GLA 250 e",
+                "price": "51 669",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Mercedes-Benz GLC 300 4MATIC",
+                "price": "26 890",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "BMW Seria 7 750Ld xDrive",
+                "price": "38 990",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Volvo XC 60 B5 B AWD Geartronic Momentum Pro",
+                "price": "35 900",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Mercedes-Benz S 500 Coupe 4Matic 9G-TRONIC",
+                "price": "39 990",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Nissan Juke 1.6 DIG-T ALL-MODE 4x4i Xtronic Nismo RS",
+                "price": "12 950",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Renault Kadjar Energy dCi 110 Experience",
+                "price": "9 700",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Dacia Jogger 7 locuri TCe 110 Extreme+",
+                "price": "19 700",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "BMW X1 xDrive25d Aut. Advantage",
+                "price": "17 300",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Audi Q3 2.0 TDI quattro S tronic",
+                "price": "16 300",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Dacia Duster TCe 130 4X4 MHEV Extreme",
+                "price": "24 900",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Volkswagen Taigo 1.0 TSI DSG Style",
+                "price": "19 990",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Seat Ateca 2.0 TDI 4Drive DSG XCELLENCE",
+                "price": "17 990",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            },
+            {
+                "name": "Porsche Cayenne Diesel Platinum Edition",
+                "price": "17 800",
+                "mileage": "Unknown",
+                "year": "Unknown"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-15",
+        "cars": [
+            {
+                "name": "Citroën C4 PureTech Live",
+                "price": "6 950",
+                "mileage": "152 000 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Land Rover Discovery",
+                "price": "21 900",
+                "mileage": "149 800 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Opel Insignia",
+                "price": "14 250",
+                "mileage": "119 136 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Dacia Duster TCe 125 4x2 Prestige",
+                "price": "8 990",
+                "mileage": "161 519 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Hyundai Elantra",
+                "price": "12 250",
+                "mileage": "146 194 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Mitsubishi ASX 1.6 2WD Comfort Edition",
+                "price": "9 499",
+                "mileage": "152 914 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Ford Kuga 2.0 TDCi 4WD Powershift Titanium",
+                "price": "8 700",
+                "mileage": "195 021 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Ford Kuga 2.0 TDCi 4WD Titanium",
+                "price": "13 999",
+                "mileage": "170 000 km",
+                "year": "N/A"
+            },
+            {
+                "name": "DS Automobiles DS 7 Crossback DS7 1.6 PureTech 180 S&S EAT8 BASTILLE+",
+                "price": "20 499",
+                "mileage": "110 651 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Audi A6 Avant 3.0 TDI quattro Tiptronic",
+                "price": "26 000",
+                "mileage": "200 000 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Audi A6 2.0 45 TFSI S tronic quattro Sport",
+                "price": "29 990",
+                "mileage": "177 000 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Volkswagen Tiguan 2.0 TDI 4Mot DSG Highline",
+                "price": "22 908",
+                "mileage": "104 750 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Kia Sportage 1.6 T-GDI AWD DCT GT LINE",
+                "price": "17 450",
+                "mileage": "184 314 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Ford Focus",
+                "price": "3 250",
+                "mileage": "197 000 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Skoda Octavia 1.6 TDI DPF DSG Ambiente",
+                "price": "5 999",
+                "mileage": "199 000 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Renault Koleos",
+                "price": "25 000",
+                "mileage": "151 000 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Peugeot 3008 Hybrid4 88g/85g",
+                "price": "7 789",
+                "mileage": "229 000 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Peugeot 308 SW HDi FAP 110 Platinum",
+                "price": "4 490",
+                "mileage": "214 000 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Audi Q3 2.0 TDI quattro S tronic",
+                "price": "16 300",
+                "mileage": "197 000 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Alfa Romeo 159 Sportwagon 1.9 JTDM 16V DPF Automatik Progression",
+                "price": "4 990",
+                "mileage": "199 890 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Volvo XC 90 D5 AWD Geartronic Inscription",
+                "price": "25 000",
+                "mileage": "230 205 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Audi A4",
+                "price": "19 749",
+                "mileage": "154 567 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Skoda Octavia 1.0 TSI Style",
+                "price": "16 449",
+                "mileage": "165 000 km",
+                "year": "N/A"
+            },
+            {
+                "name": "BMW Seria 5 530e iPerformance Aut.",
+                "price": "25 990",
+                "mileage": "116 000 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Kia Sportage 2,0 CRDI 2WD Vision",
+                "price": "13 990",
+                "mileage": "199 000 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Volkswagen Tiguan 2.0 TDI BMT Trend & Fun",
+                "price": "8 599",
+                "mileage": "212 610 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Audi A6 Avant 3.0 TDI quattro S tronic",
+                "price": "16 990",
+                "mileage": "231 000 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Nissan X-Trail 1.6L dCI Start/Stop 4x4-i Acenta",
+                "price": "18 690",
+                "mileage": "77 484 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Mercedes-Benz GLC 250 d 4Matic 9G-TRONIC AMG Line",
+                "price": "29 120",
+                "mileage": "177 500 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Citroën DS5 Hybrid4 Aut.",
+                "price": "9 350",
+                "mileage": "197 112 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Renault Megane ENERGY dCi 130 BOSE EDITION",
+                "price": "6 250",
+                "mileage": "199 000 km",
+                "year": "N/A"
+            },
+            {
+                "name": "Volkswagen Sharan 2.0 TDI DSG (BlueMotion Technology) Highline",
+                "price": "14 999",
+                "mileage": "203 000 km",
+                "year": "N/A"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-15",
+        "cars": [
+            {
+                "name": "Skoda Karoq 2.0 TDI DSG Ambition",
+                "price": "22 990",
+                "mileage": "80 223 km",
+                "year": "2022"
+            },
+            {
+                "name": "Volvo XC 60 B4 MHEV AT AWD Plus Dark",
+                "price": "49 500",
+                "mileage": "25 900 km",
+                "year": "2023"
+            },
+            {
+                "name": "Lexus Seria NX 300h AWD F Sport",
+                "price": "32 925",
+                "mileage": "84 200 km",
+                "year": "2020"
+            },
+            {
+                "name": "Dacia Logan MCV TCe 90 Celebration",
+                "price": "6 990",
+                "mileage": "109 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Suzuki SX4 2.0 DDiS 4x4 Style",
+                "price": "6 490",
+                "mileage": "208 000 km",
+                "year": "2011"
+            },
+            {
+                "name": "BMW X2 xDrive20d AT M Sport",
+                "price": "33 400",
+                "mileage": "46 900 km",
+                "year": "2022"
+            },
+            {
+                "name": "BMW Seria 3 318d Touring Aut.",
+                "price": "12 700",
+                "mileage": "212 763 km",
+                "year": "2019"
+            },
+            {
+                "name": "Dacia Duster TCe 125 4x2 Prestige",
+                "price": "8 990",
+                "mileage": "161 519 km",
+                "year": "2017"
+            },
+            {
+                "name": "Kia Niro 1.6 GDI 6DCT PHEV Comfort",
+                "price": "16 898",
+                "mileage": "140 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "BMW Seria 5 520d",
+                "price": "13 999",
+                "mileage": "199 999 km",
+                "year": "2014"
+            },
+            {
+                "name": "Volvo V60 T5 Geartronic Momentum",
+                "price": "18 445",
+                "mileage": "199 999 km",
+                "year": "2019"
+            },
+            {
+                "name": "Mercedes-Benz G AMG 63 SW Long Aut.",
+                "price": "192 999",
+                "mileage": "21 900 km",
+                "year": "2024"
+            },
+            {
+                "name": "Skoda Octavia 1.0 TSI Style",
+                "price": "16 449",
+                "mileage": "165 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "Lexus Seria RX 450h (hybrid)",
+                "price": "29 989",
+                "mileage": "158 209 km",
+                "year": "2016"
+            },
+            {
+                "name": "Volvo XC 60 B4 D AWD Geartronic Momentum Pro",
+                "price": "36 850",
+                "mileage": "41 970 km",
+                "year": "2020"
+            },
+            {
+                "name": "Skoda Kamiq 1.0 TSI DSG Style",
+                "price": "18 489",
+                "mileage": "63 000 km",
+                "year": "2023"
+            },
+            {
+                "name": "Renault Megane ENERGY dCi Business",
+                "price": "9 989",
+                "mileage": "172 500 km",
+                "year": "2018"
+            },
+            {
+                "name": "BMW X4 xDrive20d Aut. xLine",
+                "price": "20 990",
+                "mileage": "161 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "BMW M5 CS",
+                "price": "88 999",
+                "mileage": "19 000 km",
+                "year": "2023"
+            },
+            {
+                "name": "Mercedes-Benz CLA 200 (CDI) d 7G-DCT Urban",
+                "price": "17 499",
+                "mileage": "159 900 km",
+                "year": "2019"
+            },
+            {
+                "name": "BMW X1 xDrive20i AT",
+                "price": "33 990",
+                "mileage": "48 847 km",
+                "year": "2020"
+            },
+            {
+                "name": "Mercedes-Benz GLB 180 Aut.",
+                "price": "35 688",
+                "mileage": "50 720 km",
+                "year": "2022"
+            },
+            {
+                "name": "Citroën C3 AIRCROSS 1.5 BlueHDi S&S BVM6 Feel Pack",
+                "price": "13 390",
+                "mileage": "56 580 km",
+                "year": "2022"
+            },
+            {
+                "name": "Mercedes-Benz B 200 (CDI) d 7G-DCT",
+                "price": "10 950",
+                "mileage": "213 652 km",
+                "year": "2014"
+            },
+            {
+                "name": "Mercedes-Benz GLC 220 d 4MATIC",
+                "price": "35 900",
+                "mileage": "137 309 km",
+                "year": "2020"
+            },
+            {
+                "name": "Mercedes-Benz GLA 250 e",
+                "price": "51 669",
+                "mileage": "1 km",
+                "year": "2024"
+            },
+            {
+                "name": "Mercedes-Benz GLC 300 4MATIC",
+                "price": "26 890",
+                "mileage": "84 773 km",
+                "year": "2018"
+            },
+            {
+                "name": "BMW Seria 7 750Ld xDrive",
+                "price": "38 990",
+                "mileage": "147 100 km",
+                "year": "2017"
+            },
+            {
+                "name": "Volvo XC 60 B5 B AWD Geartronic Momentum Pro",
+                "price": "35 900",
+                "mileage": "62 240 km",
+                "year": "2019"
+            },
+            {
+                "name": "Mercedes-Benz S 500 Coupe 4Matic 9G-TRONIC",
+                "price": "39 990",
+                "mileage": "99 120 km",
+                "year": "2015"
+            },
+            {
+                "name": "Nissan Juke 1.6 DIG-T ALL-MODE 4x4i Xtronic Nismo RS",
+                "price": "12 950",
+                "mileage": "125 215 km",
+                "year": "2015"
+            },
+            {
+                "name": "Renault Kadjar Energy dCi 110 Experience",
+                "price": "9 700",
+                "mileage": "255 213 km",
+                "year": "2016"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-15",
+        "cars": [
+            {
+                "name": "Mercedes-Benz CLA 250 e 8G-DCT AMG Line",
+                "price": "34 498",
+                "mileage": "97 552 km",
+                "year": "2020"
+            },
+            {
+                "name": "Volkswagen e-Golf Standard",
+                "price": "13 390",
+                "mileage": "64 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "Mercedes-Benz G AMG 63 SW Long Aut.",
+                "price": "273 700",
+                "mileage": "25 km",
+                "year": "2024"
+            },
+            {
+                "name": "Skoda Karoq 2.0 TDI DSG Ambition",
+                "price": "22 990",
+                "mileage": "80 223 km",
+                "year": "2022"
+            },
+            {
+                "name": "Volvo XC 60 B4 MHEV AT AWD Plus Dark",
+                "price": "49 500",
+                "mileage": "25 900 km",
+                "year": "2023"
+            },
+            {
+                "name": "Lexus Seria NX 300h AWD F Sport",
+                "price": "32 925",
+                "mileage": "84 200 km",
+                "year": "2020"
+            },
+            {
+                "name": "Dacia Logan MCV TCe 90 Celebration",
+                "price": "6 990",
+                "mileage": "109 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Suzuki SX4 2.0 DDiS 4x4 Style",
+                "price": "6 490",
+                "mileage": "208 000 km",
+                "year": "2011"
+            },
+            {
+                "name": "BMW X2 xDrive20d AT M Sport",
+                "price": "33 400",
+                "mileage": "46 900 km",
+                "year": "2022"
+            },
+            {
+                "name": "BMW Seria 3 318d Touring Aut.",
+                "price": "12 700",
+                "mileage": "212 763 km",
+                "year": "2019"
+            },
+            {
+                "name": "Dacia Duster TCe 125 4x2 Prestige",
+                "price": "8 990",
+                "mileage": "161 519 km",
+                "year": "2017"
+            },
+            {
+                "name": "Kia Niro 1.6 GDI 6DCT PHEV Comfort",
+                "price": "16 898",
+                "mileage": "140 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "BMW Seria 5 520d",
+                "price": "13 999",
+                "mileage": "199 999 km",
+                "year": "2014"
+            },
+            {
+                "name": "Volvo V60 T5 Geartronic Momentum",
+                "price": "18 445",
+                "mileage": "199 999 km",
+                "year": "2019"
+            },
+            {
+                "name": "Mercedes-Benz G AMG 63 SW Long Aut.",
+                "price": "192 999",
+                "mileage": "21 900 km",
+                "year": "2024"
+            },
+            {
+                "name": "Skoda Octavia 1.0 TSI Style",
+                "price": "16 449",
+                "mileage": "165 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "Lexus Seria RX 450h (hybrid)",
+                "price": "29 989",
+                "mileage": "158 209 km",
+                "year": "2016"
+            },
+            {
+                "name": "Volvo XC 60 B4 D AWD Geartronic Momentum Pro",
+                "price": "36 850",
+                "mileage": "41 970 km",
+                "year": "2020"
+            },
+            {
+                "name": "Skoda Kamiq 1.0 TSI DSG Style",
+                "price": "18 489",
+                "mileage": "63 000 km",
+                "year": "2023"
+            },
+            {
+                "name": "Renault Megane ENERGY dCi Business",
+                "price": "9 989",
+                "mileage": "172 500 km",
+                "year": "2018"
+            },
+            {
+                "name": "BMW X4 xDrive20d Aut. xLine",
+                "price": "20 990",
+                "mileage": "161 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "BMW M5 CS",
+                "price": "88 999",
+                "mileage": "19 000 km",
+                "year": "2023"
+            },
+            {
+                "name": "Mercedes-Benz CLA 200 (CDI) d 7G-DCT Urban",
+                "price": "17 499",
+                "mileage": "159 900 km",
+                "year": "2019"
+            },
+            {
+                "name": "BMW X1 xDrive20i AT",
+                "price": "33 990",
+                "mileage": "48 847 km",
+                "year": "2020"
+            },
+            {
+                "name": "Mercedes-Benz GLB 180 Aut.",
+                "price": "35 688",
+                "mileage": "50 720 km",
+                "year": "2022"
+            },
+            {
+                "name": "Citroën C3 AIRCROSS 1.5 BlueHDi S&S BVM6 Feel Pack",
+                "price": "13 390",
+                "mileage": "56 580 km",
+                "year": "2022"
+            },
+            {
+                "name": "Mercedes-Benz B 200 (CDI) d 7G-DCT",
+                "price": "10 950",
+                "mileage": "213 652 km",
+                "year": "2014"
+            },
+            {
+                "name": "Mercedes-Benz GLC 220 d 4MATIC",
+                "price": "35 900",
+                "mileage": "137 309 km",
+                "year": "2020"
+            },
+            {
+                "name": "Mercedes-Benz GLA 250 e",
+                "price": "51 669",
+                "mileage": "1 km",
+                "year": "2024"
+            },
+            {
+                "name": "Mercedes-Benz GLC 300 4MATIC",
+                "price": "26 890",
+                "mileage": "84 773 km",
+                "year": "2018"
+            },
+            {
+                "name": "BMW Seria 7 750Ld xDrive",
+                "price": "38 990",
+                "mileage": "147 100 km",
+                "year": "2017"
+            },
+            {
+                "name": "Volvo XC 60 B5 B AWD Geartronic Momentum Pro",
+                "price": "35 900",
+                "mileage": "62 240 km",
+                "year": "2019"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-15",
+        "cars": [
+            {
+                "name": "Land Rover Discovery",
+                "price": "21 900",
+                "mileage": "149 800 km",
+                "year": "2017"
+            },
+            {
+                "name": "Opel Insignia",
+                "price": "14 250",
+                "mileage": "119 136 km",
+                "year": "2017"
+            },
+            {
+                "name": "Dacia Duster TCe 125 4x2 Prestige",
+                "price": "8 990",
+                "mileage": "161 519 km",
+                "year": "2017"
+            },
+            {
+                "name": "Hyundai Elantra",
+                "price": "12 250",
+                "mileage": "146 194 km",
+                "year": "2017"
+            },
+            {
+                "name": "Mitsubishi ASX 1.6 2WD Comfort Edition",
+                "price": "9 499",
+                "mileage": "152 914 km",
+                "year": "2013"
+            },
+            {
+                "name": "Audi A6 Avant 2.0 TDI ultra S tronic",
+                "price": "16 300",
+                "mileage": "196 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Hyundai Tucson",
+                "price": "15 000",
+                "mileage": "142 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Citroën C4 PureTech Live",
+                "price": "6 950",
+                "mileage": "152 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Ford Focus 1.0 EcoBoost Start-Stopp-System COOL&CONNECT",
+                "price": "6 889",
+                "mileage": "169 000 km",
+                "year": "2017"
+            },
+            {
+                "name": "Ford Kuga 2.0 TDCi 4WD Powershift Titanium",
+                "price": "8 700",
+                "mileage": "195 021 km",
+                "year": "2011"
+            },
+            {
+                "name": "Ford Kuga 2.0 TDCi 4WD Titanium",
+                "price": "13 999",
+                "mileage": "170 000 km",
+                "year": "2017"
+            },
+            {
+                "name": "Audi A6 Avant 2.0 TDI ultra S tronic",
+                "price": "16 500",
+                "mileage": "228 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Audi A6 2.0 45 TFSI S tronic quattro Sport",
+                "price": "29 990",
+                "mileage": "177 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "DS Automobiles DS 7 Crossback DS7 1.6 PureTech 180 S&S EAT8 BASTILLE+",
+                "price": "20 499",
+                "mileage": "110 651 km",
+                "year": "2018"
+            },
+            {
+                "name": "Kia Sportage 1.6 T-GDI AWD DCT GT LINE",
+                "price": "17 450",
+                "mileage": "184 314 km",
+                "year": "2017"
+            },
+            {
+                "name": "Audi Q3 2.0 TDI quattro S tronic",
+                "price": "16 300",
+                "mileage": "197 000 km",
+                "year": "2015"
+            },
+            {
+                "name": "Alfa Romeo 159 Sportwagon 1.9 JTDM 16V DPF Automatik Progression",
+                "price": "4 990",
+                "mileage": "199 890 km",
+                "year": "2009"
+            },
+            {
+                "name": "BMW Seria 3 318d Touring Advantage",
+                "price": "15 600",
+                "mileage": "209 327 km",
+                "year": "2020"
+            },
+            {
+                "name": "Audi Q5 2.0 TDI Quattro Stronic",
+                "price": "15 499",
+                "mileage": "197 000 km",
+                "year": "2014"
+            },
+            {
+                "name": "Volvo XC 90 D5 AWD Geartonic First Edition",
+                "price": "26 499",
+                "mileage": "222 359 km",
+                "year": "2016"
+            },
+            {
+                "name": "Audi A4",
+                "price": "19 749",
+                "mileage": "154 567 km",
+                "year": "2019"
+            },
+            {
+                "name": "Skoda Octavia 1.0 TSI Style",
+                "price": "16 449",
+                "mileage": "165 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "Volkswagen Tiguan 2.0 TDI BMT Trend & Fun",
+                "price": "8 599",
+                "mileage": "212 610 km",
+                "year": "2011"
+            },
+            {
+                "name": "Volvo XC 90 D5 AWD Geartronic Inscription",
+                "price": "25 000",
+                "mileage": "230 205 km",
+                "year": "2017"
+            },
+            {
+                "name": "Nissan X-Trail 1.6L dCI Start/Stop 4x4-i Acenta",
+                "price": "18 690",
+                "mileage": "77 484 km",
+                "year": "2018"
+            },
+            {
+                "name": "Volkswagen Sharan 2.0 TDI DSG (BlueMotion Technology) Highline",
+                "price": "14 999",
+                "mileage": "203 000 km",
+                "year": "2015"
+            },
+            {
+                "name": "Ford Kuga",
+                "price": "10 780",
+                "mileage": "198 000 km",
+                "year": "2015"
+            },
+            {
+                "name": "Audi Q5 2.0 TDI Quattro Stronic",
+                "price": "15 950",
+                "mileage": "197 129 km",
+                "year": "2013"
+            },
+            {
+                "name": "Hyundai I30 1.6 CRDI EDITION 30+",
+                "price": "12 800",
+                "mileage": "190 625 km",
+                "year": "2021"
+            },
+            {
+                "name": "Nissan Juke 1.6 DIG-T ALL-MODE 4x4i Xtronic Nismo RS",
+                "price": "12 950",
+                "mileage": "125 215 km",
+                "year": "2015"
+            },
+            {
+                "name": "Audi Q5 2.0 TDI Quattro",
+                "price": "14 950",
+                "mileage": "184 021 km",
+                "year": "2013"
+            },
+            {
+                "name": "Nissan Juke 1.5 dCi Tekna",
+                "price": "6 350",
+                "mileage": "207 450 km",
+                "year": "2012"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-15",
+        "cars": [
+            {
+                "name": "Peugeot 508 Hybrid 2.0 HDI 163cp + 37cp electric Allure",
+                "price": "9 250",
+                "mileage": "156 674 km",
+                "year": "2013"
+            },
+            {
+                "name": "Opel Insignia",
+                "price": "14 250",
+                "mileage": "119 136 km",
+                "year": "2017"
+            },
+            {
+                "name": "BMW Seria 3 320i AT",
+                "price": "26 418",
+                "mileage": "193 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Audi A5 Sportback 2.0 TDI ultra S tronic",
+                "price": "17 750",
+                "mileage": "198 718 km",
+                "year": "2015"
+            },
+            {
+                "name": "Hyundai Elantra 1.6 l 123 CP 6MT Highway",
+                "price": "15 900",
+                "mileage": "41 000 km",
+                "year": "2021"
+            },
+            {
+                "name": "Jeep Cherokee 2.2 Mjet AWD Limited",
+                "price": "14 700",
+                "mileage": "185 413 km",
+                "year": "2016"
+            },
+            {
+                "name": "Suzuki SX4 S-Cross 1.4 ALLGRIP Passion",
+                "price": "13 990",
+                "mileage": "107 107 km",
+                "year": "2020"
+            },
+            {
+                "name": "Suzuki Grand Vitara 1.9 DDIS JX",
+                "price": "8 550",
+                "mileage": "178 557 km",
+                "year": "2012"
+            },
+            {
+                "name": "Porsche Cayenne Turbo",
+                "price": "63 999",
+                "mileage": "126 585 km",
+                "year": "2019"
+            },
+            {
+                "name": "Ford Focus 1.0 EcoBoost Start-Stopp-System COOL&CONNECT",
+                "price": "6 889",
+                "mileage": "169 000 km",
+                "year": "2017"
+            },
+            {
+                "name": "Opel Astra",
+                "price": "5 999",
+                "mileage": "171 000 km",
+                "year": "2010"
+            },
+            {
+                "name": "Audi A8",
+                "price": "44 000",
+                "mileage": "100 000 km",
+                "year": "2018"
+            },
+            {
+                "name": "Mercedes-Benz C",
+                "price": "19 990",
+                "mileage": "78 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Skoda Octavia 2.0 TDI Ambition",
+                "price": "16 899",
+                "mileage": "89 254 km",
+                "year": "2020"
+            },
+            {
+                "name": "Ford Kuga 2.0L TDCi DPF Trend",
+                "price": "6 400",
+                "mileage": "223 000 km",
+                "year": "2010"
+            },
+            {
+                "name": "Audi A5 Sportback 2.0 TDI S tronic Design",
+                "price": "24 450",
+                "mileage": "102 006 km",
+                "year": "2017"
+            },
+            {
+                "name": "Land Rover Range Rover Velar R-Dynamic 2.0 P250 S",
+                "price": "34 510",
+                "mileage": "121 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Dacia Dokker",
+                "price": "9 890",
+                "mileage": "141 500 km",
+                "year": "2018"
+            },
+            {
+                "name": "Audi Q3 2.0 TDI ultra",
+                "price": "18 990",
+                "mileage": "173 929 km",
+                "year": "2017"
+            },
+            {
+                "name": "Suzuki SX4 S-Cross 1.4 ALLGRIP Luxus Aut.",
+                "price": "16 490",
+                "mileage": "99 543 km",
+                "year": "2020"
+            },
+            {
+                "name": "Volkswagen Tiguan 2.0 TDI 4Mot DSG Highline",
+                "price": "22 908",
+                "mileage": "104 750 km",
+                "year": "2016"
+            },
+            {
+                "name": "Volvo S60 T5 R-Design",
+                "price": "27 990",
+                "mileage": "87 864 km",
+                "year": "2019"
+            },
+            {
+                "name": "Audi A6 2.0 45 TFSI S tronic Basic",
+                "price": "29 988",
+                "mileage": "96 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "Land Rover Discovery Sport 2.0 l TD4 HSE Aut.",
+                "price": "19 990",
+                "mileage": "140 000 km",
+                "year": "2018"
+            },
+            {
+                "name": "Dacia Duster TCe 125 4x2 Prestige",
+                "price": "8 990",
+                "mileage": "161 519 km",
+                "year": "2017"
+            },
+            {
+                "name": "Alfa Romeo Giulietta 1.4 M-Air S&S Super",
+                "price": "10 948",
+                "mileage": "90 000 km",
+                "year": "2017"
+            },
+            {
+                "name": "Volkswagen Tiguan",
+                "price": "11 800",
+                "mileage": "190 000 km",
+                "year": "2013"
+            },
+            {
+                "name": "Nissan Qashqai 2.0 DCI 4 x 4 DPF I-Way",
+                "price": "6 000",
+                "mileage": "225 125 km",
+                "year": "2007"
+            },
+            {
+                "name": "Audi Q3 2.0 TDI Quattro S-Tronic",
+                "price": "14 500",
+                "mileage": "198 000 km",
+                "year": "2013"
+            },
+            {
+                "name": "Kia Sportage 2.0 CRDI AWD Eco-Dynamics+ (48V M-H) Aut. GT LINE",
+                "price": "22 900",
+                "mileage": "55 186 km",
+                "year": "2018"
+            },
+            {
+                "name": "Audi A6 Avant 2.0 TDI ultra S tronic",
+                "price": "16 300",
+                "mileage": "196 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "BMW Seria 3 318d Touring Advantage",
+                "price": "15 600",
+                "mileage": "209 327 km",
+                "year": "2020"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-15",
+        "cars": [
+            {
+                "name": "Volvo XC 60",
+                "price": "17 890",
+                "mileage": "226 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Volkswagen Passat 2.0 TDI DSG 4Motion Highline",
+                "price": "19 999",
+                "mileage": "93 500 km",
+                "year": "2018"
+            },
+            {
+                "name": "Renault Talisman Grandtour ENERGY dCi 130 EDC INTENS",
+                "price": "15 489",
+                "mileage": "105 550 km",
+                "year": "2018"
+            },
+            {
+                "name": "Volvo XC 60 T8 AWD Recharge Geartronic Inscription Expression",
+                "price": "35 690",
+                "mileage": "71 900 km",
+                "year": "2019"
+            },
+            {
+                "name": "Nissan Juke 1.2L DIG-T Start/Stop Tekna",
+                "price": "9 750",
+                "mileage": "142 126 km",
+                "year": "2017"
+            },
+            {
+                "name": "Kia Sorento",
+                "price": "44 360",
+                "mileage": "28 506 km",
+                "year": "2023"
+            },
+            {
+                "name": "Volvo V60 D4 AWD Momentum",
+                "price": "17 950",
+                "mileage": "166 070 km",
+                "year": "2019"
+            },
+            {
+                "name": "Volvo XC 60 T8 AWD Recharge Geartronic Inscription",
+                "price": "48 429",
+                "mileage": "37 950 km",
+                "year": "2020"
+            },
+            {
+                "name": "Kia Sorento",
+                "price": "41 268",
+                "mileage": "51 275 km",
+                "year": "2022"
+            },
+            {
+                "name": "Volvo XC 60 B4 MHEV AT8 AWD Momentum",
+                "price": "31 990",
+                "mileage": "60 991 km",
+                "year": "2020"
+            },
+            {
+                "name": "Skoda Octavia",
+                "price": "13 450",
+                "mileage": "103 764 km",
+                "year": "2019"
+            },
+            {
+                "name": "Audi Q2",
+                "price": "31 499",
+                "mileage": "1 km",
+                "year": "2024"
+            },
+            {
+                "name": "Skoda Superb Combi 1.4 TSI PHEV Style",
+                "price": "23 989",
+                "mileage": "133 981 km",
+                "year": "2021"
+            },
+            {
+                "name": "Mercedes-Benz CLA 200 d Coupe",
+                "price": "49 980",
+                "mileage": "1 km",
+                "year": "2024"
+            },
+            {
+                "name": "Toyota Corolla Cross 2.0I 2WD Dynamic",
+                "price": "33 990",
+                "mileage": "6 000 km",
+                "year": "2024"
+            },
+            {
+                "name": "Kia Sorento",
+                "price": "24 059",
+                "mileage": "116 110 km",
+                "year": "2019"
+            },
+            {
+                "name": "Renault Talisman",
+                "price": "37 370",
+                "mileage": "21 300 km",
+                "year": "2022"
+            },
+            {
+                "name": "Lexus UX 250h 2.0L HEV 20H- (178 HP) 4X2 CVT Business",
+                "price": "23 249",
+                "mileage": "31 000 km",
+                "year": "2021"
+            },
+            {
+                "name": "Mazda 3 e-Skyactiv G150 AT MHEV Exclusive-Line",
+                "price": "28 589",
+                "mileage": "2 km",
+                "year": "2024"
+            },
+            {
+                "name": "Mercedes-Benz Citan 111 CDI lang",
+                "price": "14 900",
+                "mileage": "109 800 km",
+                "year": "2019"
+            },
+            {
+                "name": "Mercedes-Benz GLS AMG 63 4Matic AMG Speedshift TCT 9G",
+                "price": "154 688",
+                "mileage": "8 000 km",
+                "year": "2022"
+            },
+            {
+                "name": "Kia Sportage",
+                "price": "34 360",
+                "mileage": "19 950 km",
+                "year": "2022"
+            },
+            {
+                "name": "Renault Espace",
+                "price": "36 280",
+                "mileage": "56 900 km",
+                "year": "2022"
+            },
+            {
+                "name": "Kia Sportage",
+                "price": "24 180",
+                "mileage": "69 000 km",
+                "year": "2021"
+            },
+            {
+                "name": "Hyundai KONA",
+                "price": "19 680",
+                "mileage": "81 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Hyundai IONIQ",
+                "price": "18 480",
+                "mileage": "46 460 km",
+                "year": "2019"
+            },
+            {
+                "name": "Audi Q3 1.4 TFSI Stronic Design",
+                "price": "20 399",
+                "mileage": "94 112 km",
+                "year": "2016"
+            },
+            {
+                "name": "Hyundai IONIQ",
+                "price": "19 000",
+                "mileage": "10 601 km",
+                "year": "2022"
+            },
+            {
+                "name": "Audi Q7 45 TDI quattro tiptronic S line",
+                "price": "35 950",
+                "mileage": "196 365 km",
+                "year": "2018"
+            },
+            {
+                "name": "Volvo XC 60 T4 Geartronic Momentum Pro",
+                "price": "23 499",
+                "mileage": "151 457 km",
+                "year": "2020"
+            },
+            {
+                "name": "BMW X5 xDrive30d",
+                "price": "24 450",
+                "mileage": "240 000 km",
+                "year": "2015"
+            },
+            {
+                "name": "Volvo XC 60 T6 AWD Recharge Plus Bright",
+                "price": "65 882",
+                "mileage": "10 km",
+                "year": "2024"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-15",
+        "cars": [
+            {
+                "name": "BMW Seria 3",
+                "price": "14 900",
+                "mileage": "176 000 km",
+                "year": "2017"
+            },
+            {
+                "name": "Peugeot 3008 Hybrid4 88g/85g",
+                "price": "7 789",
+                "mileage": "229 000 km",
+                "year": "2013"
+            },
+            {
+                "name": "Skoda Superb 2.0 TDI DSG Ambition",
+                "price": "17 900",
+                "mileage": "83 250 km",
+                "year": "2017"
+            },
+            {
+                "name": "Hyundai Tucson 1.6 l 150 CP 2WD 6MT Style",
+                "price": "17 860",
+                "mileage": "140 220 km",
+                "year": "2021"
+            },
+            {
+                "name": "Hyundai Elantra 1.6 l 123 CP 6MT Highway",
+                "price": "15 900",
+                "mileage": "41 000 km",
+                "year": "2021"
+            },
+            {
+                "name": "Citroën DS5 Hybrid4 Aut.",
+                "price": "9 350",
+                "mileage": "197 112 km",
+                "year": "2013"
+            },
+            {
+                "name": "Volkswagen T-ROC 2.0 TDI 4Mot DSG Sport",
+                "price": "19 950",
+                "mileage": "70 000 km",
+                "year": "2018"
+            },
+            {
+                "name": "Suzuki SX4 S-Cross 1.4 ALLGRIP Passion",
+                "price": "13 990",
+                "mileage": "107 107 km",
+                "year": "2020"
+            },
+            {
+                "name": "BMW Seria 5 540d xDrive AT",
+                "price": "35 700",
+                "mileage": "129 500 km",
+                "year": "2018"
+            },
+            {
+                "name": "Mitsubishi ASX 1.8 DI-D 2WD Intense",
+                "price": "7 350",
+                "mileage": "195 415 km",
+                "year": "2011"
+            },
+            {
+                "name": "Volvo V40",
+                "price": "9 950",
+                "mileage": "138 818 km",
+                "year": "2012"
+            },
+            {
+                "name": "Hyundai ix35",
+                "price": "10 500",
+                "mileage": "202 000 km",
+                "year": "2014"
+            },
+            {
+                "name": "Mercedes-Benz C",
+                "price": "19 990",
+                "mileage": "78 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Ford Kuga 2.0L TDCi DPF Trend",
+                "price": "6 400",
+                "mileage": "223 000 km",
+                "year": "2010"
+            },
+            {
+                "name": "BMW Seria 2",
+                "price": "12 450",
+                "mileage": "159 000 km",
+                "year": "2019"
+            },
+            {
+                "name": "Audi A8",
+                "price": "44 000",
+                "mileage": "100 000 km",
+                "year": "2018"
+            },
+            {
+                "name": "Skoda Octavia 2.0 TDI DSG Ambition",
+                "price": "12 198",
+                "mileage": "148 203 km",
+                "year": "2018"
+            },
+            {
+                "name": "Opel Insignia Grand Sport 1.5 Turbo Start/Stop Aut. Dynamic",
+                "price": "14 150",
+                "mileage": "70 555 km",
+                "year": "2019"
+            },
+            {
+                "name": "Audi A5",
+                "price": "11 500",
+                "mileage": "217 000 km",
+                "year": "2012"
+            },
+            {
+                "name": "Suzuki SX4 S-Cross 1.4 ALLGRIP Luxus Aut.",
+                "price": "16 490",
+                "mileage": "99 543 km",
+                "year": "2020"
+            },
+            {
+                "name": "Nissan Navara 2.3 dCi Bi Turbo Double Cab Tekna Aut.",
+                "price": "21 950",
+                "mileage": "175 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Opel Astra",
+                "price": "5 999",
+                "mileage": "171 000 km",
+                "year": "2010"
+            },
+            {
+                "name": "Ford Mondeo 2.0 TDCi Aut. Vignale",
+                "price": "19 900",
+                "mileage": "78 000 km",
+                "year": "2020"
+            },
+            {
+                "name": "BMW Seria 3 318d Aut. Blue Performance Luxury Line",
+                "price": "13 990",
+                "mileage": "174 000 km",
+                "year": "2014"
+            },
+            {
+                "name": "Renault Grand Scenic",
+                "price": "12 900",
+                "mileage": "176 400 km",
+                "year": "2017"
+            },
+            {
+                "name": "Volkswagen Golf",
+                "price": "10 500",
+                "mileage": "196 000 km",
+                "year": "2016"
+            },
+            {
+                "name": "Renault Espace Energy dCi 160 EDC Initiale Paris",
+                "price": "15 000",
+                "mileage": "172 150 km",
+                "year": "2017"
+            },
+            {
+                "name": "Kia Sportage 2,0 CRDI AWD Aut. Spirit",
+                "price": "15 480",
+                "mileage": "159 615 km",
+                "year": "2017"
+            },
+            {
+                "name": "Ford Focus 2.0 EcoBlue Titanium",
+                "price": "16 490",
+                "mileage": "89 300 km",
+                "year": "2020"
+            },
+            {
+                "name": "Audi Q7 3.0 TDI Quattro Tiptronic",
+                "price": "33 000",
+                "mileage": "140 000 km",
+                "year": "2018"
+            },
+            {
+                "name": "Alfa Romeo Giulia 2.2 JTDM Super",
+                "price": "12 990",
+                "mileage": "223 500 km",
+                "year": "2016"
+            },
+            {
+                "name": "Nissan Qashqai DIG-T Start/Stop Acenta",
+                "price": "14 000",
+                "mileage": "134 473 km",
+                "year": "2018"
+            }
+        ]
+    }
+]
